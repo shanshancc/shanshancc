@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanshancc.
 - 👀 I’m building and living in web3.
 - 🌱 I’m currently working with Kucoin Community Chain | GoDAO.
-- 💞️ I’m looking to collaborate on VC, incubation, ecosystem growth, events, hackathons, and parties. 
+- 💞️ I’m looking to collaborate on VC, incubation, ecosystem growth, events, hackathons, and certainly: parties. 
 - 📫 Shoot me an email at cedric.shan@flsdex.com
 
 <!---
